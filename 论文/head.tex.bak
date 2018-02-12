@@ -1,0 +1,9 @@
+\documentclass[a4paper]{ctexart}
+\usepackage[margin=1in]{geometry}
+\usepackage{bm}
+\usepackage{esvect}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amssymb}

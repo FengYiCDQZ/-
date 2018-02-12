@@ -1,0 +1,42 @@
+\part{补充知识}
+
+\define $m\times n$个数排成每行$n$列的数表
+$$\left(
+  \begin{array}{cccc}
+    a_{11} & a_{12} & \cdots & a_{1n} \\
+    a_{21} & a_{22} & \cdots & a_{2n} \\
+    \vdots & \vdots &  & \vdots \\
+    a_{m1} & a_{m2} & \cdots & a_{mn} \\
+  \end{array}
+\right)$$
+称为一个$m\times n$ \textbf{矩阵},简记为$\bm{A}=(a_{ij})$或$\bm{A}=(a_{ij})_{m\times n}$,$a_{ij}$称为矩阵的元素.
+
+\define 一个$m\times m$的矩阵称为$\bm{m}$阶方阵
+
+\define $n$个数$1,2,\cdots,n$排成一个有序$n$元数组称为一个 $\bm{n}$ \textbf{元排列}.
+
+\define $S_n=$\{所有$n$元排列\}
+
+\define 对于给定的$n$元排列$p_1,p_2,\cdots,p_n$,
+如果一对数前后位置与它们的大小顺序相反(即左边的数大于右边的数)，
+则称它们为一个 \textbf{逆序}.
+一个排列中逆序的总数称为该排列的 \textbf{逆序数}，记作$$\tau(p_1,p_2,\cdots,p_n)$$.
+
+\define 设$\bm{A}=(a_{ij})$,所谓$\bm{A}$\textbf{的行列式}或$\bm{n}$\textbf{阶行列式}，是指由$A$确定的一个数，记为$\left | \bm{A} \right |$(或$\det \bm{A}$),这个数由下式来确定
+$$
+\left | \bm{A} \right |=\sum_{(i_1,\cdots,i_n)\in S_n}{(-1)^{\tau(i_1,\cdots,i_n)}a_{1i_1}a_{2i_2}\cdots a_{ni_n}}
+$$
+
+\define 在方阵
+$$
+\left(
+  \begin{array}{ccccc}
+    a_{11} & \cdots & a_{1j} & \cdots & a_{1n} \\
+    \vdots &  & \vdots &  & \vdots \\
+    a_{i1} & \cdots & a_{ij} & \cdots & a_{in} \\
+    \vdots &  & \vdots &  & \vdots \\
+    a_{n1} & \cdots & a_{nj} & \cdots & a_{nn} \\
+  \end{array}
+\right)
+$$
+中划去$a_{ij}$所在的第$i$行和第$j$列，剩下的$(n-1)^{2}$
