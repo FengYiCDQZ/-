@@ -1,5 +1,10 @@
 \part{补充知识}
 
+虽然这一部分叫\bm{补充知识},但是我们并没有准备在
+这里做知识的新课式讲解.这里只会列出一些基本概念
+和公式,供已经学习过但忘记的人复习用,如果您真的不知道
+什么叫行列式,请自行购买线性代数学习.
+
 \define $m\times n$个数排成每行$n$列的数表
 $$\left(
   \begin{array}{cccc}
@@ -40,3 +45,62 @@ $$
 \right)
 $$
 中划去$a_{ij}$所在的第$i$行和第$j$列，剩下的$(n-1)^{2}$
+
+\define 设$\bm{a},\bm{b}$是两个向量,规定$\bm{a}$与$\bm{b}$的向量积
+是一个向量,记作$\bm{a}\times\bm{b}$,它的模与方向分别为\\
+$(i) \abs{\bm{a}\times\bm{b}}=\abs{\bm{a}}\abs{\bm{b}}\sin<a,b>$\\
+$(ii)\bm{a}\times\bm{b}\textbf{同时垂直于}\bm{a}\textbf{和}\bm{b},\textbf{并且}\bm{a},\bm{b},\bm{a}\times\bm{b}\textbf{符合右手法则}$\\
+由定义得:\\
+$\bm{i}\times\bm{j}=\bm{k},\bm{j}\times\bm{k}=\bm{i},\bm{k}\times\bm{i}=\bm{j}\\ 
+\bm{a}\times\bm{a}=\bm{0}\\
+\bm{a}\times\bm{b}=-\bm{b}\times\bm{a}
+$
+
+
+按照定义求向量的向量积不方便,现在我们考虑以下方法
+
+\prob 已知$\bm{a}=(x_1,y_1,z_1),\bm{b}=(x_2,y_2,z_2)$,求$\bm{a}\times\bm{b}$\\
+\from{冯易} $\dps
+\because\bm{a}=(x_1,y_1,z_1)=x_1\bm{i}+y_1\bm{j}+z_1\bm{k},\bm{b}=(x_2,y_2,z_2)=x_2\bm{i}+y_2\bm{j}+z_2\bm{k}\\
+\so \bm{a}\times\bm{b}
+=(x_1\bm{i}+y_1\bm{j}+z_1\bm{k})\times(x_2\bm{i}+y_2\bm{j}+z_2\bm{k})\\
+=x_1x_2\bm{i}\times\bm{i}+y_1y_2\bm{j}\times\bm{j}+z_1z_2\bm{k}\times\bm{k}
++x_1y_2\bm{i}\times\bm{j}+y_1z_2\bm{j}\times\bm{k}+z_2x_1\bm{k}\times\bm{i}
++x_2y_1\bm{j}\times\bm{i}+y_2z_1\bm{k}\times\bm{j}+z_2x_1\bm{i}\times\bm{k}\\
+=\cdots\\
+$
+最后我们有
+$$
+\bm{a}\times\bm{b}=
+\left|
+  \begin{array}{cc}
+    y_1&z_1\\
+    y_2&z_2\\
+  \end{array}
+\right|\bm{i}
++
+\left|
+  \begin{array}{cc}
+    z_1&x_1\\
+    z_2&x_2\\
+  \end{array}
+\right|\bm{j}
++
+\left|
+  \begin{array}{cc}
+    x_1&y_1\\
+    x_2&y_2\\
+  \end{array}
+\right|\bm{k}
+$$
+或
+$$
+\bm{a}\times\bm{b}=
+\left|
+  \begin{array}{ccc}
+    \bm{i}&\bm{j}&\bm{k}\\
+    x_1&y_1&z_1\\
+    x_2&y_2&z_2\\
+  \end{array}
+\right|
+$$

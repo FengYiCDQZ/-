@@ -11,7 +11,7 @@
 
   \prob 如图\ref{pro1},在平面直角坐标系中,已知$A(2,3)$,$B(1,5)$,求$S_{\triangle ABO}$\\
 \from{冯易}
-  $\because O(0,0),B(1,5)\\
+  $\dps\because O(0,0),B(1,5)\\
   \so OB:5x-y=0;\textrm {又} A(2,3)\\
   \so OB\textrm{边上的高}h=\frac{\abs{10-3}}{\sqrt{5^2+1^2}}=\frac{7}{\sqrt{26}},
   \textrm{底边}OB=\sqrt{(1-0)^2+(5-0)^2}=\sqrt{26}\\
@@ -19,9 +19,9 @@
 
 考虑它的一般情况：
 
-\prob 已知三点$A,B,c$,坐标分别为$(x_i,y_i),i=1,2,3$,求$S_{\triangle ABC}$\\
+\prob 已知三点$A,B,C$,坐标分别为$(x_i,y_i),i=1,2,3$,求$S_{\triangle ABC}$\\
 \from{冯易}
-  $\because A(x_1,y_1),B(x_2,y_2)\\
+  $\dps\because A(x_1,y_1),B(x_2,y_2)\\
   \so AB:(y_1-y_2)x-(x_1-x_2)y+(x_1y_2-x_2y_1)=0;\textrm {又} C(x_3,y_3)\\
   \so AB\textrm{边上的高}h=\frac{\abs{(y_1-y_2)x_3-(x_1-x_2)y_3}}{\sqrt{(y_1-y_2)^2+(x_1-x_2)^2}},
   \textrm{底边}AB=\sqrt{(x_1-x_2)^2+(y_1-y_2)^2}\\
@@ -30,14 +30,19 @@
   =\frac{1}{2}\abs{x_1y_2-x_1y_3+x_2y_3-x_2y_1+x_3y_1-x_3y_2}
   $
 
-结合行列式的知识，我们有$S_{\triangle ABC}=$
-$$\frac{1}{2}\left|\left|\begin{array}{ccc}
+本着对称轮换、简单优美的原则，我们有$$S_{\triangle ABC}=
+\frac{1}{2}\left|\left|\begin{array}{ccc}
     1 & 1 & 1 \\
-    x_1 & x_2 & x_3 \\
+    x_1 & x_2 & x_3 \\ 
     y_1 & y_2 & y_3 
   \end{array}\right|\right|
+  =
+\frac{1}{2}\left|\left|\begin{array}{cc}
+    x_2-x_1 & y_2-y_1 \\
+    x_3-x_1 & x_3-y_1 
+  \end{array}\right|\right|
+  =\frac{1}{2}\abs{\vv{AB}\times\vv{AC}}
 $$
-  
 
 \section{空间中求体积}
 
@@ -63,7 +68,10 @@ V=\frac{1}{6}\left|\left(\vv{AB}\times\vv{AC}\right)\cdot\vv{AD} \right|
 \end{eqnarray}
 在式(\ref{equtionOfV})中用到了向量的数量积和向量积，$(\bm{a}\times\bm{b})\cdot\bm{c}$ 称为(向量)$\bm{a},\bm{b},\bm{c}$的混合积\footnote{不严谨的定义}
 
-建立单位基底向量\footnote{未作特别说明,文中所提到的$\bm{i},\bm{j},\bm{k}均$ 为分别平行$x,y,z$的单位向量}$\bm{i},\bm{j},\bm{k}$, 将向量用坐标表示
+建立标准单位向量\footnote{
+  未作特别说明,分别以$\bm{i},\bm{j},\bm{k}$记$x$轴,$y$轴,$z$轴上与该轴正向同方向的单位向量
+  }
+  $\bm{i},\bm{j},\bm{k}$, 将向量用坐标表示
 \begin{eqnarray}
 \vv{AB}&=&(x_2-x_1,y_2-y_1,z_2-z_1)\nonumber\\
 \vv{AC}&=&(x_3-x_1,y_3-y_1,z_3-z_1)\nonumber\\
