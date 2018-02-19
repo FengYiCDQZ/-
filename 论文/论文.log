@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.10.1)  14 FEB 2018 11:24
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.10.1)  18 FEB 2018 19:03
 entering extended mode
 **c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/论文
 (c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/论文.tex
@@ -737,7 +737,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )
 (C:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
 Package: amssymb 2009/06/22 v3.00
-))
+)
 (C:\CTEX\MiKTeX\tex\latex\ams\classes\amsthm.sty
 Package: amsthm 2004/08/06 v2.20
 \thm@style=\toks19
@@ -749,7 +749,7 @@ Package: amsthm 2004/08/06 v2.20
 \thm@postskip=\skip50
 \thm@headsep=\skip51
 \dth@everypar=\toks24
-)
+))
 (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\论文.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -914,39 +914,49 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\abstract.tex)
 (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\fromASimpleProblem
-.tex <pic//1//1.pdf, id=52, 101.91174pt x 185.7058pt>
-File: pic//1//1.pdf Graphic file (type pdf)
- <use pic//1//1.pdf>
-Package pdftex.def Info: pic//1//1.pdf used on input line 8.
-(pdftex.def)             Requested size: 85.35826pt x 155.54692pt.
-Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
- family 'def' instead. on input line 12.
-
+.tex
 
 LaTeX Font Warning: Font shape `U/esvect/m/n' in size <10.54> not available
-(Font)              size <10.95> substituted on input line 12.
+(Font)              size <10.95> substituted on input line 5.
 
-[1
+<pic//1//1.pdf, id=53, 101.91174pt x 185.7058pt>
+File: pic//1//1.pdf Graphic file (type pdf)
+ <use pic//1//1.pdf>
+Package pdftex.def Info: pic//1//1.pdf used on input line 20.
+(pdftex.def)             Requested size: 85.35826pt x 155.54692pt.
 
- <c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/pic//1//1.pdf>]
-Overfull \hbox (20.2665pt too wide) in paragraph at lines 49--50
-[] |\C70/rm/m/n/10.54/30 |\C70/rm/bx/n/10.54/4f �\OT1/cmr/m/n/10.54 3|\C70/rm/
-m/n/10.54/30 | \C70/rm/m/n/10.54/57 ( \C70/rm/m/n/10.54/7a z \C70/rm/m/n/10.54
-/95 � \C70/rm/m/n/10.54/76 � \C70/rm/m/n/10.54/89 � \C70/rm/m/n/10.54/57 P \C70
-/rm/m/n/10.54/68  \C70/rm/m/n/10.54/7c � \C70/rm/m/n/10.54/4e -\OT1/cmr/m/n/10
-.54 ,\C70/rm/m/n/10.54/5d � \C70/rm/m/n/10.54/77 � \C70/rm/m/n/10.54/56 � \C70/
-rm/m/n/10.54/70 �$\OML/cmm/m/it/10.54 A; B; C; D; []\OT1/cmr/m/n/10.54 (\OML/cm
-m/m/it/10.54 x[]; y[]; z[]\OT1/cmr/m/n/10.54 )(\OML/cmm/m/it/10.54 i \OT1/cmr/m
-/n/10.54 = 1\OML/cmm/m/it/10.54 ; \OT1/cmr/m/n/10.54 2\OML/cmm/m/it/10.54 ; \OT
-1/cmr/m/n/10.54 3\OML/cmm/m/it/10.54 ; \OT1/cmr/m/n/10.54 4)$,\C70/rm/m/n/10.54
-/6c B$\OML/cmm/m/it/10.54 V[]$\OT1/cmr/m/n/10.54 (\C70/rm/m/n/10.54/4e �
- []
+<pic//1//2.pdf, id=55, 109.4519pt x 193.45073pt>
+File: pic//1//2.pdf Graphic file (type pdf)
+ <use pic//1//2.pdf>
+Package pdftex.def Info: pic//1//2.pdf used on input line 37.
+(pdftex.def)             Requested size: 85.35826pt x 150.87323pt.
+Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
+ family 'def' instead. on input line 42.
+ [1
 
+]
+[2 <c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/pic//1//1.pdf> 
+<c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/pic//1//2.pdf>]
+[3]
 
 LaTeX Font Warning: Font shape `U/esvect/m/n' in size <7.53> not available
-(Font)              size <8> substituted on input line 69.
+(Font)              size <8> substituted on input line 151.
 
-[2]) (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\summary.tex
+[4]
+Overfull \hbox (16.75331pt too wide) in paragraph at lines 214--217
+[]\C70/rm/bx/n/10.54/4f �\OT1/cmr/m/n/10.54 6$ $ \C70/rm/m/n/10.54/57 ( \C70/rm
+/m/n/10.54/7a z \C70/rm/m/n/10.54/95 � \C70/rm/m/n/10.54/76 � \C70/rm/m/n/10.54
+/89 � \C70/rm/m/n/10.54/57 P \C70/rm/m/n/10.54/68  \C70/rm/m/n/10.54/7c � \C70
+/rm/m/n/10.54/4e -\OT1/cmr/m/n/10.54 ,\C70/rm/m/n/10.54/5d � \C70/rm/m/n/10.54/
+77 � \C70/rm/m/n/10.54/56 � \C70/rm/m/n/10.54/70 �$\OML/cmm/m/it/10.54 A; B; C;
+ D; []\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 x[]; y[]; z[]\OT1/cmr/m/n/10.54 )
+(\OML/cmm/m/it/10.54 i \OT1/cmr/m/n/10.54 = 1\OML/cmm/m/it/10.54 ; \OT1/cmr/m/n
+/10.54 2\OML/cmm/m/it/10.54 ; \OT1/cmr/m/n/10.54 3\OML/cmm/m/it/10.54 ; \OT1/cm
+r/m/n/10.54 4)$, \C70/rm/m/n/10.54/6c B$\OML/cmm/m/it/10.54 V[]$\OT1/cmr/m/n/10
+.54 (\C70/rm/m/n/10.54/4e �
+ []
+
+[5]) (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\summary.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
 
 (C:\CTEX\MiKTeX\tex\latex\base\omscmr.fd
@@ -956,7 +966,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.54> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
 )
 (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\addition.tex
-[3]
+[6]
 Overfull \hbox (2.36377pt too wide) in paragraph at lines 30--31
 [] |\C70/rm/m/n/10.54/30 |\C70/rm/bx/n/10.54/5b � \C70/rm/bx/n/10.54/4e I\OT1/
 cmr/m/n/10.54 6|\C70/rm/m/n/10.54/30 | \C70/rm/m/n/10.54/8b �$\OML/cmm/b/it/10
@@ -973,82 +983,87 @@ m/n/10.54/62 $[] \OML/cmm/b/it/10.54 A$\OT1/cmr/m/n/10.54 ),\C70/rm/m/n/10.54/
 8f �
  []
 
-) (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\reference.tex
-[4]) [5]
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\论文.aux)
+[7]) (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\reference.tex
+) [8] (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\论文.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.47pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 11168 strings out of 495354
- 172897 string characters out of 3183859
- 212477 words of memory out of 3000000
- 13710 multiletter control sequences out of 15000+200000
- 83597 words of font info for 297 fonts, out of 3000000 for 9000
+ 11344 strings out of 495354
+ 175594 string characters out of 3183859
+ 210477 words of memory out of 3000000
+ 13832 multiletter control sequences out of 15000+200000
+ 92640 words of font info for 327 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 42i,20n,32p,920b,1106s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,20n,32p,920b,1129s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/s
-imsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
-/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:
-/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei
-.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Font
-s/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WIND
-OWS/Fonts/simkai.ttf><C:/WINDOWS/Fonts/simkai.ttf><C:/WINDOWS/Fonts/simkai.ttf>
+imsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
+/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:
+/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun
+.ttc><C:/WINDOWS/Fonts/simkai.ttf><C:/WINDOWS/Fonts/simkai.ttf><C:/WINDOWS/Font
+s/simkai.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WIND
+OWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf>
 <C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/sim
-hei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/F
-onts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/W
-INDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.t
-tc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/
+hei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/F
+onts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/W
+INDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simkai.ttf><C:/WINDOWS/Fonts/simkai.t
+tf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/
 simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOW
-S/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C
-:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simkai.ttf><C:/WINDOWS/Fonts/simka
-i.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fon
-ts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WIN
-DOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf
-><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/si
-mhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/
-Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/
-WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.
-ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts
-/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDO
-WS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><
-C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/sims
-un.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fo
-nts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WI
-NDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.tt
-c><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/s
-imsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
+S/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C
+:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsu
+n.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fon
+ts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WIN
+DOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc
+><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/si
+msun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/
+Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/
+WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.
+ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts
+/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDO
+WS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><
+C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simh
+ei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fo
+nts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WI
+NDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.tt
+f><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/s
+imhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
 /Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:
 /WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun
 .ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Font
 s/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIND
-OWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc>
+OWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc>
 <C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/sim
 sun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/F
 onts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/W
 INDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.t
 tc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/
-simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/CTEX/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/CTEX/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex1
-0.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/CTEX/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmmi7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
-:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/CTEX/MiKTeX/fonts/
-type1/public/amsfonts/cmextra/cmmib7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/CTEX/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-r8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><
-C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/CTEX/MiKTeX/f
-onts/type1/public/esvect/vect10.pfb>
-Output written on 论文.pdf (5 pages, 733469 bytes).
+simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOW
+S/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C
+:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsu
+n.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fon
+ts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIN
+DOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc
+><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/si
+msun.ttc><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/CTEX/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/CTEX/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:
+/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb><C:/CTEX/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/CTE
+X/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/CTEX/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.p
+fb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/CTEX/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pf
+b><C:/CTEX/MiKTeX/fonts/type1/public/esvect/vect10.pfb>
+Output written on 论文.pdf (8 pages, 834370 bytes).
 PDF statistics:
- 630 PDF objects out of 1000 (max. 8388607)
+ 723 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 270 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 287 words of extra memory for PDF output out of 10000 (max. 10000000)
 

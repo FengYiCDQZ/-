@@ -1,15 +1,21 @@
 \newcounter{problemCounter}
 \setcounter{problemCounter}{1}
-\newcommand{\prob}{【\bm{例} \theproblemCounter 】\addtocounter{problemCounter}{1}}
+\newcommand{\prob}{\bm{例} \theproblemCounter $\quad$ \addtocounter{problemCounter}{1}}
 
 \newcounter{definitionCounter}
 \setcounter{definitionCounter}{1}
 \newcommand{\define}{【\bm{定义}\thedefinitionCounter 】\addtocounter{definitionCounter}{1}}
 
-\newcommand{\from}[1]{(解答来自\emph{{#1}})}
+\newcommand{\sol}{\bm{解}$\quad$}
+\newcommand{\from}[1]{\bm{解}\footnote{来自\emph{{#1}}}$\quad$}
 
 \newcommand{\so}{\therefore}
 
 \newcommand{\abs}[1]{\left| {#1} \right|}
+\newcommand{\abss}[1]{\abs{\abs{{#1}}}}
 
 \newcommand{\dps}{\displaystyle}
+
+\newcommand{\solend}{\begin{flushright}
+    $\square$
+  \end{flushright}}

@@ -1,4 +1,4 @@
-\part{分析与总结}
+\section{分析与总结}
 向量的向量积有着广泛的用处
 \begin{itemize}
   \item 面积
@@ -6,15 +6,26 @@
   \item 法向量
 \end{itemize}
 
+\subsection{向量积在解析几何中的用处}
 在解析几何中利用向量积可以快速而简洁地表示出面积,
-有时会有意想不到的妙处,如下一道例题,标准解答(原题中椭圆已知)复杂而冗余,
+有时会有意想不到的妙处.
+
+在下一道例题中,标准解答(原题中椭圆已知)复杂而冗余,
 但如果利用参数方程和向量积,则几乎没有什么计算量.
 
+\prob 已知椭圆$\dps\frac{x^2}{a^2}+\frac{y^2}{b^2}=1(a>b>0)$
+上有两动点$A$、$B$，求$S_{\triangle OAB}$最大值
 
-\prob 已知椭圆$\dps\frac{x^2}{a^2}+\frac{y^2}{b^2}=1(a>b>0)$上有两动点$A$、$B$，求$S_{\triangle OAB}$最大值\\
 \from{方若愚}$\dps\textrm{设}A(a\cos\alpha,b\sin\alpha),B(a\cos\beta,b\sin\beta)\\
 \so S_{\triangle OAB}=\frac{1}{2}\abs{\vv{OA}\times\vv{OB}}=\frac{1}{2}\abs{ab\sin\beta\cos\alpha-ab\sin\alpha\cos\beta}\\
 =\frac{1}{2}ab\abs{\sin(\alpha-\beta)}\leq\frac{1}{2}ab$
+
+\subsection{向量积在立体几何中的用处}
+
+式\ref{equtionOfV}实际上给出了空间中四面体的体积公式,
+利用它可以很快的表示出空间中的体积
+
+\prob 
 
 在立体几何中,利用向量积可以快速地算出
 体积、法向量和空间面积,
