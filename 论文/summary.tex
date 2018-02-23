@@ -14,21 +14,92 @@
 但如果利用参数方程和向量积,则几乎没有什么计算量.
 
 \prob 已知椭圆$\dps\frac{x^2}{a^2}+\frac{y^2}{b^2}=1(a>b>0)$
-上有两动点$A$、$B$，求$S_{\triangle OAB}$最大值
+上有两动点$A$、$B$，求$S_{\triangle OAB}$最大值.
 
-\from{方若愚}$\dps\textrm{设}A(a\cos\alpha,b\sin\alpha),B(a\cos\beta,b\sin\beta)\\
-\so S_{\triangle OAB}=\frac{1}{2}\abs{\vv{OA}\times\vv{OB}}=\frac{1}{2}\abs{ab\sin\beta\cos\alpha-ab\sin\alpha\cos\beta}\\
-=\frac{1}{2}ab\abs{\sin(\alpha-\beta)}\leq\frac{1}{2}ab$
+\sol设$$
+    A(a\cos\alpha,b\sin\alpha),
+    B(a\cos\beta,b\sin\beta),$$
+则
+\begin{eqnarray}
+S_{\triangle OAB} 
+&=&\frac{1}{2}\abs{\vv{OA}\times\vv{OB}}\nonumber\\
+&=&\frac{1}{2}\abs{ab\sin\beta\cos\alpha-ab\sin\alpha\cos\beta}\nonumber\\
+&=&\frac{1}{2}ab\abs{\sin(\alpha-\beta)}\nonumber\\
+&\leq&\frac{1}{2}ab\nonumber.
+\end{eqnarray}
+\solend
 
 \subsection{向量积在立体几何中的用处}
 
-式\ref{equtionOfV}实际上给出了空间中四面体的体积公式,
-利用它可以很快的表示出空间中的体积
+\prob 在空间直角坐标系中,已知$A(a,0,0),B(0,b,0),C(0,0,c)$,求面
+$ABC$的法向量$\bm{n}$.
 
-\prob 
+\sol 
+\begin{eqnarray}
+  \bm{n}&=&
+  \left|
+  \begin{array}{cccc}
+    \bm{i}&\bm{j}&\bm{k}&1\\
+    a&0&0&1\\
+    0&b&0&1\\
+    0&0&c&1
+  \end{array}
+  \right|\nonumber\\
+  &=&(bc,ca,ab).\nonumber
+\end{eqnarray}
+\solend
+
+式(\ref{mixedProduct})实际上给出了空间中四面体的体积公式,
+利用它可以很快的表示出空间中的体积,由于高中阶段此类
+题目较少,这里不再做说明.
 
 在立体几何中,利用向量积可以快速地算出
 体积、法向量和空间面积,
 进而还可以算出点到直线距离,点到面距离,
-减少多余的计算,节省时间.
+减少多余的计算,节省时间,本文不再赘述.
+
+
+\subsection{规律}
+
+\bm{一维}$\quad$ 已知一维空间中一点$A(x_1)$,则线段$|OA|$的长度为
+一阶行列式
+$$ 
+\left|x_1\right|.
+$$
+
+\bm{二维}$\quad$ 已知二维空间中两点$A(x_1,y_1),B(x_2,y_2$,
+则三角形$OAB$的面积为
+二阶行列式
+$$ 
+\left|
+\begin{array}{cc}
+  x_1&y_1\\
+  x_2&y_2
+\end{array}
+\right|.
+$$
+
+\bm{三维}$\quad$ 已知三维空间中三点
+$A(x_1,y_1,z_1),B(x_2,y_2,z_2),C(x_3,y_3,z_3)$,则四面体$OABC$的体积为
+三阶行列式
+$$
+\left|
+\begin{array}{ccc}
+  x_1&y_1&z_1\\
+  x_2&y_2&z_2\\
+  x_3&y_3&z_3
+\end{array}
+\right|. 
+$$
+
+\bm{$n$维}$\quad$ 已知$n$维空间中$n$点
+$A(x_1,y_1,\cdots),B(x_2,y_2,\cdots),\cdots$,
+则体$OA\cdots$的``体积''为?
+
+\subsection{其他}
+由于向量积并未在高中阶段学习,超出考纲范围,
+所以尽管有些时候使用向量积非常方便,
+但是不推荐在解答题\footnote{文子龙说``可以扯把子$\cdots$''}的过程呈现中使用
+向量积.但同时,在一些选择题和填空题中使用向量积
+也无妨.
 
