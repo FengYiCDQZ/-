@@ -21,11 +21,8 @@
 \draw [line width=0.4pt] (0.,0.)-- (1.,5.);
 \draw [line width=0.4pt] (1.,5.)-- (2.,3.);
 \begin{scriptsize}
-\draw [fill=ududff] (2.,3.) circle (1.0pt);
 \draw[color=ududff] (2.1371739255622675,2.8870972942641178) node {$A$};
-\draw [fill=uuuuuu] (0.,0.) circle (1.0pt);
 \draw[color=uuuuuu] (-0.17944410127952476,0.2237745287113123) node {$O$};
-\draw [fill=ududff] (1.,5.) circle (1.0pt);
 \draw[color=ududff] (0.7818735833282939,4.998844339140307) node {$B$};
 \end{scriptsize}
 \end{tikzpicture}
