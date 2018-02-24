@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.10.1)  24 FEB 2018 20:05
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.10.1)  24 FEB 2018 21:46
 entering extended mode
 **c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/论文
 (c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/论文.tex
@@ -1263,9 +1263,9 @@ on.2.2}) has been already used, duplicate ignored
 l.85 $$
        ])
 (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\addition.tex
-Overfull \hbox (10.53236pt too wide) in paragraph at lines 30--31
+Overfull \hbox (10.53236pt too wide) in paragraph at lines 29--30
 []\C70/rm/bx/n/10.54/5b � \C70/rm/bx/n/10.54/4e I$\OML/cmm/b/it/10.54 =$\C70/rm
-/bx/n/10.54/74 \OT1/cmr/m/n/10.54 6$ $\C70/rm/m/n/10.54/8b �$\OML/cmm/b/it/10.
+/bx/n/10.54/74 \OT1/cmr/m/n/10.54 5$ $\C70/rm/m/n/10.54/8b �$\OML/cmm/b/it/10.
 54 A \OT1/cmr/m/n/10.54 = (\OML/cmm/m/it/10.54 a[]\OT1/cmr/m/n/10.54 )$,\C70/rm
 /m/n/10.54/62 @ \C70/rm/m/n/10.54/8c $\OML/cmm/b/it/10.54 A$\C70/rm/bx/n/10.54
 /76 � \C70/rm/bx/n/10.54/88 L \C70/rm/bx/n/10.54/52  \C70/rm/bx/n/10.54/5f  \
@@ -1281,12 +1281,13 @@ f �
 
 [8]) [9] [10]
 (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\reference.tex)
-[11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 16.
- (c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\论文.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 16.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 16.
+(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\tail.tex) [11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
+
+(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\论文.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
 Package rerunfilecheck Info: File `论文.out' has not changed.
 (rerunfilecheck)             Checksum: 23BB110CFF39D9154537135D1880BF1F;1197.
 
@@ -1296,13 +1297,13 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 15041 strings out of 495354
- 231768 string characters out of 3183859
+ 15071 strings out of 495354
+ 232232 string characters out of 3183859
  305193 words of memory out of 3000000
- 17435 multiletter control sequences out of 15000+200000
+ 17462 multiletter control sequences out of 15000+200000
  97238 words of font info for 343 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 42i,20n,33p,920b,1339s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,20n,33p,920b,1346s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/s
 imhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS
 /Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:
@@ -1366,9 +1367,9 @@ CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1
 msy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiK
 TeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/CTEX/MiKTeX/fonts/type1/
 public/esvect/vect10.pfb>
-Output written on 论文.pdf (11 pages, 867855 bytes).
+Output written on 论文.pdf (11 pages, 873957 bytes).
 PDF statistics:
- 821 PDF objects out of 1000 (max. 8388607)
+ 822 PDF objects out of 1000 (max. 8388607)
  39 named destinations out of 1000 (max. 500000)
  387 words of extra memory for PDF output out of 10000 (max. 10000000)
 
