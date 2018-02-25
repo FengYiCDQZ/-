@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.10.1)  24 FEB 2018 21:46
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.2.25)  25 FEB 2018 16:52
 entering extended mode
-**c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/论文
-(c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/论文.tex
+**c:/Users/fengy/Documents/GitHub/vector/论文/论文
+(c:/Users/fengy/Documents/GitHub/vector/论文/论文.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\head.tex
 (C:\CTEX\MiKTeX\tex\latex\ctex\ctexart.cls
 Document Class: ctexart 2011/03/11 v1.02c ctexart document class
 (C:\CTEX\MiKTeX\tex\latex\ctex\opt\ctex-common-opts.def)
@@ -683,6 +682,7 @@ Package ifpdf Info: The package is already loaded, stopped on input line 64.
 (C:\CTEX\MiKTeX\tex\latex\ctex\cfg\ctexcap.cfg
 (C:\CTEX\MiKTeX\tex\latex\ctex\cfg\ctexcap-utf8.cfg))
 (C:\CTEX\MiKTeX\tex\latex\ctex\cfg\ctex.cfg)
+(c:\Users\fengy\Documents\GitHub\vector\论文\head.tex
 (C:\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -840,7 +840,7 @@ LaTeX Info: Redefining \pageref on input line 5831.
 \c@Hfootnote=\count177
 )
 
-Package hyperref Message: Driver: hpdftex.
+Package hyperref Message: Driver (autodetected): hpdftex.
 
 (C:\CTEX\MiKTeX\tex\latex\hyperref\hpdftex.def
 File: hpdftex.def 2012/02/06 v6.82o Hyperref driver for pdfTeX
@@ -854,87 +854,87 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip52
 )
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\论文.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
+(c:\Users\fengy\Documents\GitHub\vector\论文\论文.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
 
 (C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -985,7 +985,7 @@ LaTeX Font Info:    ... okay on input line 3.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box37
-Package hyperref Info: Link coloring OFF on input line 3.
+Package hyperref Info: Link coloring OFF on input line 4.
 (C:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -994,12 +994,12 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count186
 )
-LaTeX Info: Redefining \ref on input line 3.
-LaTeX Info: Redefining \pageref on input line 3.
-LaTeX Info: Redefining \nameref on input line 3.
+LaTeX Info: Redefining \ref on input line 4.
+LaTeX Info: Redefining \pageref on input line 4.
+LaTeX Info: Redefining \nameref on input line 4.
 
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\论文.out)
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\论文.out)
+(c:\Users\fengy\Documents\GitHub\vector\论文\论文.out)
+(c:\Users\fengy\Documents\GitHub\vector\论文\论文.out)
 \@outlinefile=\write3
 
 (C:\CTEX\MiKTeX\tex\latex\cjk\UTF8\UTF8.bdg
@@ -1011,34 +1011,33 @@ File: UTF8.enc 2008/12/29 4.8.2
 (C:\CTEX\MiKTeX\tex\latex\cjk\UTF8\UTF8.chr
 File: UTF8.chr 2008/12/29 4.8.2
 )
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\definition.tex
+(c:\Users\fengy\Documents\GitHub\vector\论文\definition.tex
 \c@problemCounter=\count187
 \c@definitionCounter=\count188
 )
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\information.tex)
-LaTeX Font Info:    Try loading font information for C70+rm on input line 8.
+(c:\Users\fengy\Documents\GitHub\vector\论文\information.tex)
+LaTeX Font Info:    Try loading font information for C70+rm on input line 9.
 
 (C:\CTEX\MiKTeX\tex\latex\ctex\fd\c70rm.fd
 File: c70rm.fd 2007/05/06 v0.8a ctexutf8 font definition file
 )
-LaTeX Font Info:    Try loading font information for U+esvect on input line 8.
+LaTeX Font Info:    Try loading font information for U+esvect on input line 9.
 
 (C:\CTEX\MiKTeX\tex\latex\esvect\uesvect.fd
 File: uesvect.fd 
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 8.
+LaTeX Font Info:    Try loading font information for U+msa on input line 9.
 
 (C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+LaTeX Font Info:    Try loading font information for U+msb on input line 9.
 
 (C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\abstract.tex)
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\fromASimpleProblem
-.tex
+(c:\Users\fengy\Documents\GitHub\vector\论文\abstract.tex)
+(c:\Users\fengy\Documents\GitHub\vector\论文\fromASimpleProblem.tex
 
 LaTeX Font Warning: Font shape `U/esvect/m/n' in size <10.54> not available
 (Font)              size <10.95> substituted on input line 5.
@@ -1059,10 +1058,10 @@ Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
  [1
 
 ]
-[2 <c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/pic//1//1.pdf> 
-<c:/Users/ASUS/Documents/GitHub/寒假研究性学习/论文/pic//2//2.pdf>]pdf
-TeX warning (ext4): destination with the same identifier (name{equation.1.1}) h
-as been already used, duplicate ignored
+[2 <c:/Users/fengy/Documents/GitHub/vector/论文/pic//1//1.pdf> <c:/Users/feng
+y/Documents/GitHub/vector/论文/pic//2//2.pdf>]pdfTeX warning (ext4): destinat
+ion with the same identifier (name{equation.1.1}) has been already used, duplic
+ate ignored
 <to be read again> 
                    \relax 
 l.65 \begin{eqnarray}
@@ -1247,7 +1246,7 @@ er (name{equation.1.1}) has been already used, duplicate ignored
                    \relax 
 l.266 \begin{eqnarray}
                       )
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\summary.tex
+(c:\Users\fengy\Documents\GitHub\vector\论文\summary.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
 
 (C:\CTEX\MiKTeX\tex\latex\base\omscmr.fd
@@ -1261,8 +1260,7 @@ on.2.2}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.85 $$
-       ])
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\addition.tex
+       ]) (c:\Users\fengy\Documents\GitHub\vector\论文\addition.tex
 Overfull \hbox (10.53236pt too wide) in paragraph at lines 29--30
 []\C70/rm/bx/n/10.54/5b � \C70/rm/bx/n/10.54/4e I$\OML/cmm/b/it/10.54 =$\C70/rm
 /bx/n/10.54/74 \OT1/cmr/m/n/10.54 5$ $\C70/rm/m/n/10.54/8b �$\OML/cmm/b/it/10.
@@ -1279,15 +1277,14 @@ ff | \C70/rm/m/n/10.54/66 / \C70/rm/m/n/10.54/63  \C70/rm/m/n/10.54/75 1$\OML
 f �
  []
 
-[8]) [9] [10]
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\reference.tex)
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\tail.tex) [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
+[8]) [9] [10] (c:\Users\fengy\Documents\GitHub\vector\论文\reference.tex)
+(c:\Users\fengy\Documents\GitHub\vector\论文\tail.tex) [11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
 
-(c:\Users\ASUS\Documents\GitHub\寒假研究性学习\论文\论文.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 17.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
+(c:\Users\fengy\Documents\GitHub\vector\论文\论文.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 18.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 18.
 Package rerunfilecheck Info: File `论文.out' has not changed.
 (rerunfilecheck)             Checksum: 23BB110CFF39D9154537135D1880BF1F;1197.
 
@@ -1298,12 +1295,12 @@ LaTeX Font Warning: Size substitutions with differences
  ) 
 Here is how much of TeX's memory you used:
  15071 strings out of 495354
- 232232 string characters out of 3183859
- 305193 words of memory out of 3000000
+ 231826 string characters out of 3183859
+ 305169 words of memory out of 3000000
  17462 multiletter control sequences out of 15000+200000
  97238 words of font info for 343 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 42i,20n,33p,920b,1346s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,20n,33p,872b,1346s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/s
 imhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS
 /Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:
@@ -1367,7 +1364,7 @@ CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1
 msy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiK
 TeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/CTEX/MiKTeX/fonts/type1/
 public/esvect/vect10.pfb>
-Output written on 论文.pdf (11 pages, 873957 bytes).
+Output written on 论文.pdf (11 pages, 873803 bytes).
 PDF statistics:
  822 PDF objects out of 1000 (max. 8388607)
  39 named destinations out of 1000 (max. 500000)
