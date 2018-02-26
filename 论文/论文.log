@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.2.25)  25 FEB 2018 16:52
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.2.25)  26 FEB 2018 16:51
 entering extended mode
 **c:/Users/fengy/Documents/GitHub/vector/论文/论文
 (c:/Users/fengy/Documents/GitHub/vector/论文/论文.tex
@@ -809,6 +809,14 @@ Now handling font encoding PD1 ...
 (C:\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
+Package hyperref Info: Option `unicode' set `true' on input line 3925.
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\puenc.def
+File: puenc.def 2012/02/06 v6.82o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 3925.
 Package hyperref Info: Hyper figures OFF on input line 4046.
 Package hyperref Info: Link nesting OFF on input line 4051.
 Package hyperref Info: Hyper index ON on input line 4054.
@@ -830,7 +838,7 @@ Package hyperref Info: Hyper figures OFF on input line 5757.
 Package hyperref Info: Link nesting OFF on input line 5762.
 Package hyperref Info: Hyper index ON on input line 5765.
 Package hyperref Info: backreferencing OFF on input line 5772.
-Package hyperref Info: Link coloring OFF on input line 5777.
+Package hyperref Info: Link coloring ON on input line 5775.
 Package hyperref Info: Link coloring with OCG OFF on input line 5782.
 Package hyperref Info: PDF/A mode OFF on input line 5787.
 LaTeX Info: Redefining \ref on input line 5827.
@@ -840,7 +848,7 @@ LaTeX Info: Redefining \pageref on input line 5831.
 \c@Hfootnote=\count177
 )
 
-Package hyperref Message: Driver (autodetected): hpdftex.
+Package hyperref Message: Driver: hpdftex.
 
 (C:\CTEX\MiKTeX\tex\latex\hyperref\hpdftex.def
 File: hpdftex.def 2012/02/06 v6.82o Hyperref driver for pdfTeX
@@ -935,6 +943,8 @@ LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
 
 (C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -985,7 +995,7 @@ LaTeX Font Info:    ... okay on input line 4.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box37
-Package hyperref Info: Link coloring OFF on input line 4.
+Package hyperref Info: Link coloring ON on input line 4.
 (C:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -1286,7 +1296,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 18.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 18.
 Package rerunfilecheck Info: File `论文.out' has not changed.
-(rerunfilecheck)             Checksum: 23BB110CFF39D9154537135D1880BF1F;1197.
+(rerunfilecheck)             Checksum: 4FA7E51A205E5D26B652354996B37FA7;1301.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1294,13 +1304,13 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 15071 strings out of 495354
- 231826 string characters out of 3183859
- 305169 words of memory out of 3000000
- 17462 multiletter control sequences out of 15000+200000
+ 16149 strings out of 495354
+ 243670 string characters out of 3183859
+ 314060 words of memory out of 3000000
+ 18537 multiletter control sequences out of 15000+200000
  97238 words of font info for 343 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 40i,20n,33p,872b,1346s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,20n,33p,872b,1352s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/s
 imhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS
 /Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:
@@ -1364,7 +1374,7 @@ CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1
 msy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiK
 TeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/CTEX/MiKTeX/fonts/type1/
 public/esvect/vect10.pfb>
-Output written on 论文.pdf (11 pages, 873803 bytes).
+Output written on 论文.pdf (11 pages, 874022 bytes).
 PDF statistics:
  822 PDF objects out of 1000 (max. 8388607)
  39 named destinations out of 1000 (max. 500000)
