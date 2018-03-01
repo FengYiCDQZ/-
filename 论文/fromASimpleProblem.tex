@@ -106,7 +106,7 @@ $$
 求$S_{\triangle ABC}$(以下简写为$S$).
 
 我们先来看下面一种解法
-\footnote{文子龙在研究这道题目时曾说:
+\footnote{该解法由文子龙提供,他在研究这道题目时曾说:
 ``简单嘛,直接用三角形面积公式爆算''}.
 
 \newcommand{\aaa}{\sqrt{(x_2-x_3)^2+(y_2-y_3)^2+(z_2-z_3)^2}}
@@ -144,7 +144,15 @@ q&=&\frac{1}{2}(a+b+c) \nonumber\\
 
 上面的方法计算量巨大,不推荐采纳.
 
-\sol注意到向量积的定义式
+\begin{figure}
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=6cm,angle=270]{pic//3//33.pdf}\\
+  \caption{向量积的模}\label{pro3}
+\end{figure}
+
+\sol 如图\ref{pro3}($F$是垂足),
+注意到向量积的(部分)定义式
 $$\abs{\bm{a}\times\bm{b}}=\abs{\bm{a}}\abs{\bm{b}}\sin<a,b>$$
 本身就表示以$\bm{a},\bm{b}$为邻边的平行四边形的面积.
 建立标准单位向量\footnote{
@@ -215,7 +223,7 @@ $$
   \end{array}
   \right|
 $$
-表示平面$ABC$的法向量.
+(显然地)表示平面$ABC$的法向量.
 
 \prob 在空间直角坐标系中,已知两点$A,B
 \textrm{坐标为}(x_i,y_i,z_i)(i=1,2)$,
@@ -352,7 +360,7 @@ $(\bm{a}\times\bm{b})\cdot\bm{c}$
 
 \sol 这里直接给出答案
 $$
-V=\frac{1}{6}
+V=\frac{1}{6}\cdot
 \left|
     \begin{array}{cccc}
       x_1&y_1&z_1&1\\

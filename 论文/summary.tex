@@ -62,15 +62,14 @@ $ABC$的法向量$\bm{n}$.
 \subsection{规律}
 
 \bm{一维}$\quad$ 已知一维空间中一点$A(x_1)$,则线段$|OA|$的长度为
-一阶行列式
 $$ 
 \left|x_1\right|.
 $$
 
 \bm{二维}$\quad$ 已知二维空间中两点$A(x_1,y_1),B(x_2,y_2$,
 则三角形$OAB$的面积为
-二阶行列式
 $$ 
+\frac{1}{2}\cdot
 \left|
 \begin{array}{cc}
   x_1&y_1\\
@@ -81,8 +80,8 @@ $$
 
 \bm{三维}$\quad$ 已知三维空间中三点
 $A(x_1,y_1,z_1),B(x_2,y_2,z_2),C(x_3,y_3,z_3)$,则四面体$OABC$的体积为
-三阶行列式
 $$
+\frac{1}{6}\cdot
 \left|
 \begin{array}{ccc}
   x_1&y_1&z_1\\
@@ -93,8 +92,21 @@ $$
 $$
 
 \bm{$n$维}$\quad$ 已知$n$维空间中$n$点
-$A(x_1,y_1,\cdots),B(x_2,y_2,\cdots),\cdots$,
-则体$OA\cdots$的``体积''为?
+$A_1(a_{11},a_{12},\cdots,a_{1n}),
+A_2(a_{21},a_{22},\cdots,a_{2n}),
+\cdots,A_n(a_{n1},a_{n2},\cdots,a_{nn})$
+则\\``体''$A_1A_2\cdots A_n$的``体积''为
+$$
+\frac{1}{n!}\cdot
+\left|
+\begin{array}{cccc}
+  a_{11}&a_{12}&\cdots&a_{1n}\\
+  a_{21}&a_{22}&\cdots&a_{2n}\\
+  \vdots&\vdots&      &\vdots\\
+  a_{n1}&a_{n2}&\cdots&a_{nn}\\
+\end{array}
+\right|? 
+$$
 
 \subsection{其他}
 由于向量积并未在高中阶段学习,超出考纲范围,

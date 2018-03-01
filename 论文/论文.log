@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.2.25)  26 FEB 2018 16:51
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.2.25)  1 MAR 2018 22:23
 entering extended mode
 **c:/Users/fengy/Documents/GitHub/vector/论文/论文
 (c:/Users/fengy/Documents/GitHub/vector/论文/论文.tex
@@ -1046,25 +1046,26 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 9.
 (C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-(c:\Users\fengy\Documents\GitHub\vector\论文\abstract.tex)
+(c:\Users\fengy\Documents\GitHub\vector\论文\abstract.tex
+Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
+ family 'def' instead. on input line 10.
+)
 (c:\Users\fengy\Documents\GitHub\vector\论文\fromASimpleProblem.tex
 
 LaTeX Font Warning: Font shape `U/esvect/m/n' in size <10.54> not available
 (Font)              size <10.95> substituted on input line 5.
 
-<pic//1//1.pdf, id=109, 118.78578pt x 194.29889pt>
+<pic//1//1.pdf, id=111, 118.78578pt x 194.29889pt>
 File: pic//1//1.pdf Graphic file (type pdf)
  <use pic//1//1.pdf>
 Package pdftex.def Info: pic//1//1.pdf used on input line 30.
 (pdftex.def)             Requested size: 85.35826pt x 139.62529pt.
 
-<pic//2//2.pdf, id=110, 110.30109pt x 185.8142pt>
+<pic//2//2.pdf, id=112, 110.30109pt x 185.8142pt>
 File: pic//2//2.pdf Graphic file (type pdf)
  <use pic//2//2.pdf>
 Package pdftex.def Info: pic//2//2.pdf used on input line 37.
 (pdftex.def)             Requested size: 85.35826pt x 143.80035pt.
-Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
- family 'def' instead. on input line 42.
  [1
 
 ]
@@ -1135,127 +1136,138 @@ er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.137 \begin{eqnarray}
+                      
+
+pdfTeX warning: pdflatex (file c:/Users/fengy/Documents/GitHub/vector/论文/pi
+c//3//33.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
+> allowed
+<pic//3//33.pdf, id=270, 597.50786pt x 845.04686pt>
+File: pic//3//33.pdf Graphic file (type pdf)
+ <use pic//3//33.pdf>
+Package pdftex.def Info: pic//3//33.pdf used on input line 150.
+(pdftex.def)             Requested size: 170.71652pt x 241.43399pt.
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.163 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155 \begin{eqnarray}
+l.163 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155 \begin{eqnarray}
+l.163 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155 \begin{eqnarray}
+l.163 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155 \begin{eqnarray}
+l.168 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 \begin{eqnarray}
+l.168 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 \begin{eqnarray}
+l.168 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 \begin{eqnarray}
+l.168 \begin{eqnarray}
+                       [4] [5 <c:/Users/fengy/Documents/GitHub/vector/论文/pi
+c//3//33.pdf>]pdfTeX warning (ext4): destination with the same identifier (name
+{equation.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.261 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 \begin{eqnarray}
-                       [4]pdfTeX warning (ext4): destination with the same iden
-tifier (name{equation.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.253 \begin{eqnarray}
+l.261 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.253 \begin{eqnarray}
+l.261 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.253 \begin{eqnarray}
+l.261 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.253 \begin{eqnarray}
+l.265 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.257 \begin{eqnarray}
+l.265 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.257 \begin{eqnarray}
+l.265 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.257 \begin{eqnarray}
+l.265 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.257 \begin{eqnarray}
+l.270 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.262 \begin{eqnarray}
+l.270 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.262 \begin{eqnarray}
+l.270 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.262 \begin{eqnarray}
+l.270 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.262 \begin{eqnarray}
-                       [5]pdfTeX warning (ext4): destination with the same iden
-tifier (name{equation.1.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.266 \begin{eqnarray}
+l.274 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.266 \begin{eqnarray}
+l.274 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.266 \begin{eqnarray}
+l.274 \begin{eqnarray}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.266 \begin{eqnarray}
-                      )
+l.274 \begin{eqnarray}
+                       [6])
 (c:\Users\fengy\Documents\GitHub\vector\论文\summary.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
 
@@ -1264,13 +1276,14 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.54> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
- [6] [7pdfTeX warning (ext4): destination with the same identifier (name{equati
-on.2.2}) has been already used, duplicate ignored
+ [7pdfTeX warning (ext4): destination with the same identifier (name{equation.2
+.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.85 $$
-       ]) (c:\Users\fengy\Documents\GitHub\vector\论文\addition.tex
+l.49 \end{eqnarray}
+                   ])
+(c:\Users\fengy\Documents\GitHub\vector\论文\addition.tex [8]
 Overfull \hbox (10.53236pt too wide) in paragraph at lines 29--30
 []\C70/rm/bx/n/10.54/5b � \C70/rm/bx/n/10.54/4e I$\OML/cmm/b/it/10.54 =$\C70/rm
 /bx/n/10.54/74 \OT1/cmr/m/n/10.54 5$ $\C70/rm/m/n/10.54/8b �$\OML/cmm/b/it/10.
@@ -1287,7 +1300,7 @@ ff | \C70/rm/m/n/10.54/66 / \C70/rm/m/n/10.54/63  \C70/rm/m/n/10.54/75 1$\OML
 f �
  []
 
-[8]) [9] [10] (c:\Users\fengy\Documents\GitHub\vector\论文\reference.tex)
+[9]) [10] (c:\Users\fengy\Documents\GitHub\vector\论文\reference.tex)
 (c:\Users\fengy\Documents\GitHub\vector\论文\tail.tex) [11]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
@@ -1304,41 +1317,41 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 16149 strings out of 495354
- 243670 string characters out of 3183859
- 314060 words of memory out of 3000000
- 18537 multiletter control sequences out of 15000+200000
- 97238 words of font info for 343 fonts, out of 3000000 for 9000
+ 16170 strings out of 495354
+ 243973 string characters out of 3183859
+ 315098 words of memory out of 3000000
+ 18553 multiletter control sequences out of 15000+200000
+ 98715 words of font info for 348 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 40i,20n,33p,872b,1352s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,20n,33p,872b,1355s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/s
-imhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS
-/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:
-/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei
-.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Font
-s/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIND
+imhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
+/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:
+/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei
+.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Font
+s/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WIND
 OWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf>
 <C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/sim
-hei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/F
+hei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/F
 onts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/W
 INDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.t
-tc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/
-simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOW
-S/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C
-:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhe
-i.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fon
+tc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/
+simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOW
+S/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C
+:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsu
+n.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fon
 ts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIN
 DOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc
 ><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/si
 msun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/
-Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/
-WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.
+Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/
+WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.
 ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts
 /simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDO
 WS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><
 C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simh
-ei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fo
-nts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WI
+ei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fo
+nts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WI
 NDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.tt
 c><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/s
 imsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
@@ -1374,9 +1387,9 @@ CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/CTEX/MiKTeX/fonts/type1
 msy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiK
 TeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/CTEX/MiKTeX/fonts/type1/
 public/esvect/vect10.pfb>
-Output written on 论文.pdf (11 pages, 874022 bytes).
+Output written on 论文.pdf (11 pages, 883872 bytes).
 PDF statistics:
- 822 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
- 387 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 829 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 392 words of extra memory for PDF output out of 10000 (max. 10000000)
 
